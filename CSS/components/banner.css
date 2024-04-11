@@ -1,0 +1,21 @@
+.banner {
+	background-image: url("../../images/fond.jpg");
+	background-size: cover;
+	background-position: center;
+	color: white;
+	padding: 150px 0px;
+}
+
+    .banner h1 {
+    	font-size: 50px;
+    	margin-top: 30px;
+    	color: rgb(50,50,50);
+    	padding-left: 200px;
+    }
+
+    .banner a {
+    	font-size: 20px;
+    	
+    	
+
+    }

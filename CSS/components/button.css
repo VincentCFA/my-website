@@ -1,0 +1,10 @@
+.btn-blue {
+	width: 100px;
+	height: bold;
+	padding: 20px 30px;
+	background-color: rgb(37 150 190);
+	border-radius: 10px;
+	color: black;
+	font-family: "Raleway", sans-serif;
+	margin-left: 250px;
+}
